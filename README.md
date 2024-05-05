@@ -7,4 +7,7 @@ Needs:
 2. Genterate a foward engineering script from the ERD
 3. Insert the data into the database with Python
 4. Test the database
+
+![books](https://github.com/SeeBee8/Books/assets/141530991/0b18fb57-6f79-4447-956f-3e89bf999e88)
+
  
